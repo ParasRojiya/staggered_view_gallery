@@ -1,0 +1,67 @@
+[
+  {
+    "category": "Anime",
+    "image": "assets/images/anime1.jpg",
+    "crossAxisCellCount": 10,
+    "mainAxisCellCount": 4,
+    "images": [
+      "assets/images/anime1.jpg",
+      "assets/images/anime2.jpg",
+      "assets/images/anime3.png",
+      "assets/images/anime4.jpg",
+      "assets/images/anime5.jpg"
+    ]
+  },
+  {
+    "category": "Car",
+    "image": "assets/images/car1.jpg",
+    "crossAxisCellCount": 5,
+    "mainAxisCellCount": 4,
+    "images": [
+      "assets/images/car1.jpg",
+      "assets/images/car2.jpg",
+      "assets/images/car3.jpg",
+      "assets/images/car4.jpg",
+      "assets/images/car5.jpg"
+    ]
+  },
+  {
+    "category": "Interior",
+    "image": "assets/images/interior1.jpg",
+    "crossAxisCellCount": 5,
+    "mainAxisCellCount": 10,
+    "images": [
+      "assets/images/interior1.jpg",
+      "assets/images/interior2.jpg",
+      "assets/images/interior3.jpg",
+      "assets/images/interior4.jpg",
+      "assets/images/interior5.jpg"
+    ]
+  },
+  {
+    "category": "Marvel",
+    "image": "assets/images/marvel1.jpg",
+    "crossAxisCellCount": 5,
+    "mainAxisCellCount": 6,
+    "images": [
+      "assets/images/marvel1.jpg",
+      "assets/images/marvel2.jpg",
+      "assets/images/marvel3.jpg",
+      "assets/images/marvel4.jpg",
+      "assets/images/marvel5.jpg"
+    ]
+  },
+  {
+    "category": "Nature",
+  "image": "assets/images/nature1.jpg",
+    "crossAxisCellCount":10,
+    "mainAxisCellCount": 5,
+    "images": [
+      "assets/images/nature1.jpg",
+      "assets/images/nature2.jpg",
+      "assets/images/nature3.jpg",
+      "assets/images/nature4.jpg",
+      "assets/images/nature5.jpg"
+    ]
+  }
+]
